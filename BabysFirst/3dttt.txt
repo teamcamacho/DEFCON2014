@@ -1,0 +1,5 @@
+Some fuckin ticktacktoe board in 3d
+3dttt
+Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): Choose Wisely (x,y,z): 
+Must go faster...
+x,y,z = parameters, but how to pass?
