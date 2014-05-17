@@ -1,0 +1,16 @@
+log into http://routarded_87f7837f50a5370771b9467d840c93c5.2014.shallweplayaga.me:5000/status
+default username is blank ""
+default password is "admin"
+
+Kernel Version: #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014
+Firmware version: 31.33.7-sp2 ZOMGOPTIMIZED - build 69420
+Router Name: routarded
+Router Model: Pwnmebox
+System Time: Sat May 17 00:52:57 2014
+MAC Address 69:B0:0B:FA:CE:69
+Hostname: routarded
+Uptime: 1 second
+
+MEMORY
+Free Physical: 1947088/3838876
+Free Virtual: 0/0
