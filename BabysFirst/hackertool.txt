@@ -1,0 +1,5 @@
+download
+http://services.2014.shallweplayaga.me/hackertool.torrent_fe3b8b75e9639d35e8ac1d9809726ee2
+asks u to torrent and then md5 result
+torrent asks u to download 61.34 GB file: every_ip_address.txt
+quicker to just run a script that counts 0 to 255 in each of the 4 fields, print it to a file and then md5 that.
