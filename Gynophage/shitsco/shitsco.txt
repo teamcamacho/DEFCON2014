@@ -75,3 +75,4 @@ o88oooo888 o888o o888o o888o  888o 88oooooo88    88ooo888    88ooo88
 ====================================================================================================
 
 Tried to run in linux, but it crashes on trying to find password file
+looking for password file at location: /home/shitsco/password
