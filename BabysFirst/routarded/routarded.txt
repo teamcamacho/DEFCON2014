@@ -46,3 +46,17 @@ action=doPing&inputIPAddress=54.82.181.125HTTP/1.1 302 FOUND
 ==========================================================================================================
 
 Moving forward with downloading browser plugin for tampering
+Had to run Tamper Data on Firefox (not many other options).
+
+==========================================================================================================
+
+Had a hard time getting the plugin going
+TodayandTomorrow in irc helped me with activating it and with the format of the request
+Hit ALT -> Tools -> Tamper Data -> start tamper
+Basically entered loopback for IP Address field for Ping
+When I clicked the Ping! button, got a dialog box asking if I wanted to tamper.
+Modified ip address field to be: "127.0.0.1; cat /home/routarded flag"
+
+==========================================================================================================
+
+Flag = l0l, can't believe they still do this shit
