@@ -14,3 +14,14 @@ Uptime: 1 second
 MEMORY
 Free Physical: 1947088/3838876
 Free Virtual: 0/0
+
+==========================================================================================================
+
+From crymsen:
+crymsen> the ping utility through the web allows for command injection
+<crymsen> it uses a client side javascript to enforce the input to be an IP
+<crymsen> which you can circumvent
+<crymsen> so you can append commands to the 'ping' they're issuing
+
+==========================================================================================================
+
