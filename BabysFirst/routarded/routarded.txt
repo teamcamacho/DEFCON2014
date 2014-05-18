@@ -25,3 +25,24 @@ crymsen> the ping utility through the web allows for command injection
 
 ==========================================================================================================
 
+Format of outbound message:
+
+POST /settings.cgi HTTP/1.1
+Host: routarded_87f7837f50a5370771b9467d840c93c5.2014.shallweplayaga.me:5000
+Connection: keep-alive
+Content-Length: 42
+Cache-Control: max-age=0
+Authorization: Basic OmFkbWlu
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://routarded_87f7837f50a5370771b9467d840c93c5.2014.shallweplayaga.me:5000
+User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://routarded_87f7837f50a5370771b9467d840c93c5.2014.shallweplayaga.me:5000/diag
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+action=doPing&inputIPAddress=54.82.181.125HTTP/1.1 302 FOUND
+
+==========================================================================================================
+
+Moving forward with downloading browser plugin for tampering
